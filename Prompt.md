@@ -51,3 +51,10 @@ Use your CSS skills to style the GIF Gala invitation page so it's easily viewabl
 Remember to make it as visually engaging and fun as possible to match the event's lively and playful spirit!
 
 The confirmation message should initially be hidden. Add comments to the CSS to help non-coders understand the code more easily.
+
+## JavaScript
+Your task now is to write JavaScript code to enhance the interactivity of the RSVP page.
+
+After submitting the form, check if the user selected 'attending'. Display a party emoji and a positive message if they are attending.
+
+The message should appear in the confirmation message space. Add brief comments to your JavaScript logic to make it more understandable for a non-coder.
