@@ -53,6 +53,7 @@ Remember to make it as visually engaging and fun as possible to match the event'
 The confirmation message should initially be hidden. Add comments to the CSS to help non-coders understand the code more easily.
 
 ## JavaScript
+
 Your task now is to write JavaScript code to enhance the interactivity of the RSVP page.
 
 After submitting the form, check if the user selected 'attending'. Display a party emoji and a positive message if they are attending.
