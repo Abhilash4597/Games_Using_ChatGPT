@@ -6,7 +6,15 @@
 */
 
 /* Reset default styles */
-body, h1, h2, h3, p, label, input, select, button {
+body,
+h1,
+h2,
+h3,
+p,
+label,
+input,
+select,
+button {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -51,7 +59,7 @@ main {
 }
 
 h3 {
-  color: #00afb9;   
+  color: #00afb9;
   font-size: 20px;
   margin-bottom: 10px;
 }
